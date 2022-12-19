@@ -5,8 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <div style="color:red">
+        <div style={{color:"red"}}>
+          <p>hello</p>
 
         </div>
       </header>
